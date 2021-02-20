@@ -1,2 +1,0 @@
-# es
-Engenharia de Software
